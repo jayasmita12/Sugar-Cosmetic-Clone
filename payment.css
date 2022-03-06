@@ -1,0 +1,72 @@
+#contact{
+    display:flex;
+    margin-left:400px
+}
+#main-box{
+    width:600px;
+    height:400px;
+    /* border: 1px solid ; */
+    margin:auto;
+    margin:60px;
+}
+ #mail{
+    width:525px;
+    height:35px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding-left: 10px;
+} 
+
+/* #address>div{
+    border:1px solid ;
+    margin:8px
+} */
+
+#country,#add,#apart,#phone{
+    width:550px;
+    height:35px;
+    margin-top:13px
+}
+#fname,#lname{
+    height:35px;
+    margin-top: 13px;
+    width:550px
+}
+#city,#pin{
+    margin-top:13px;
+    height:35px;
+}
+#state{
+    height:38px;
+    width:190px
+}
+#payment{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+#btn{
+    padding:20px;
+    font-weight: bold;
+    background-color: black;
+    color:white;
+    border:0px
+    
+
+}
+#btn:hover{
+    cursor: pointer;
+}
+img{
+    width:150px;
+    
+}
+
+#myform{
+    width:400px;
+    margin:auto
+}
+#head{
+    text-align: center;
+}
