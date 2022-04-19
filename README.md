@@ -12,7 +12,7 @@ Here we are gonna Share Some Of The Experience we Faced During The First Project
 <img src="https://miro.medium.com/max/630/1*LS00BOjqCi99RW3u5PTp2g.jpeg" alt="" />
 <img src="https://miro.medium.com/max/630/1*LS00BOjqCi99RW3u5PTp2g.jpeg" alt="" />
 <img src="https://miro.medium.com/max/630/1*0Ty8l1NdrmAfGSiZoFCqWg.jpeg" alt="" />
-<img src="https://miro.medium.com/max/630/1*Xx41k0vVi52301PCB0Q_jQ.jpeg" alt="" />
+
 
 # Introduction
 We were trying to build An E-Commerce website for our Projects Of Masai. We have given a task to Replicate The SugarCosmetics.com Website Using HTML,CSS and JavaScript. We have used this skillset to build a responsiveness website as like SugarCosmetics and for the different screen sizes like Mobile, I pad & Large screens.
